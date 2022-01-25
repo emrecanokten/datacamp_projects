@@ -1,2 +1,2 @@
-# Datacamp_Projects
+# datacamp_projects
 Notebooks for Datacamp Projects
